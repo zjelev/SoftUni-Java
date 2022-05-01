@@ -7,10 +7,10 @@ public class Main {
         Scanner scanner = new Scanner((System.in));
         scanner.nextLine();
 
-        System.out.println("Card Suits:");
-
-        for (Suit suit : Suit.values()) {
-            System.out.printf("Ordinal value: %d; Name value: %s%n", suit.ordinal(), suit);
+        // System.out.println("Card Suits:");
+        System.out.println("Card Ranks:");
+        for (Rank value : Rank.values()) {
+            System.out.printf("Ordinal value: %d; Name value: %s%n", value.ordinal(), value);
         }
     }
 }
