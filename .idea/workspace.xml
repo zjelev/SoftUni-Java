@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f223535-815e-48ea-8168-02bf1a5c33dd" name="Changes" comment="Exercise task 1">
-      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardSuit/Rank.java" afterDir="false" />
+    <list default="true" id="9f223535-815e-48ea-8168-02bf1a5c33dd" name="Changes" comment="Exercise task 2">
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Suit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardSuit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardSuit/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,8 +55,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="cardSuit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cardSuit.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cardPower.Main" />
       <module name="JavaOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.cardSuit.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651386496107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise task 2">
+      <created>1651386971519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651386971519</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +138,7 @@
     <MESSAGE value="WorkingWithAbstraction Lab task 3" />
     <MESSAGE value="Lab task 4" />
     <MESSAGE value="Exercise task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise task 1" />
+    <MESSAGE value="Exercise task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise task 2" />
   </component>
 </project>
