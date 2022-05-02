@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f223535-815e-48ea-8168-02bf1a5c33dd" name="Changes" comment="Exercise task 2">
-      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/cardPower/Suit.java" afterDir="false" />
+    <list default="true" id="9f223535-815e-48ea-8168-02bf1a5c33dd" name="Changes" comment="Exercise task 3">
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/jediGalaxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/trafficLights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithAbstraction/src/trafficLights/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +54,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cardPower.Main" />
+    <configuration name="trafficLights.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trafficLights.Main" />
       <module name="JavaOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.trafficLights.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651386971519</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise task 3">
+      <created>1651393622294</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651393622294</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +145,18 @@
     <MESSAGE value="Lab task 4" />
     <MESSAGE value="Exercise task 1" />
     <MESSAGE value="Exercise task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise task 2" />
+    <MESSAGE value="Exercise task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise task 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WorkingWithAbstraction/src/trafficLights/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
